@@ -1,0 +1,14 @@
+Resource: envi_starter_shell_pack
+
+
+Resource Contents:
+-- This resource provides 3 different shell types (01, 02, 03), each available in two variants:
+-- 1. Empty: Unfurnished interior shells
+-- 2. Furnished: Fully decorated interior shells
+-- These can be used as a base for custom interiors in FiveM servers.
+
+-- Usage:
+-- Place this resource in your server's resources folder and ensure it's started in your server.cfg file.
+-- The shell interiors can then be spawned or used within other scripts that require custom interiors.
+
+-- Note: Ensure that all referenced .ytyp files are present in the specified 'stream' directory.
